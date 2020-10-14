@@ -1,5 +1,3 @@
-# fluttersample
-How to quickly move beyond the Flutter UI and build industry-strength apps based on REST, OpenAPI, Dart-DIO, Bloc, BuiltValue/BuiltCollections (Google's Immutable Collections)
 
 <p align="center">
 <img src="https://www.lxisoft.com/wp-content/uploads/2020/06/LXIsoft.png" height="100" alt="Flutter OPENAPI BLOC TEMPLATE" />
